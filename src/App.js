@@ -1,4 +1,9 @@
- // Budget component
+//Remaining component
+                    <div className='col-sm'>
+                        <Remaining />
+                    </div>
+
+// Budget component
                     <div className='col-sm'>
                         <Budget />
                     </div>
